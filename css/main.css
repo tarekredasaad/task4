@@ -1,0 +1,20 @@
+body{
+    background-color: #051d36;
+    color: black;
+}
+
+.card{
+
+    background-color: rgb(60, 5, 60);
+    color: white;
+    font-weight: 900;
+    margin: 20px 0px;
+}
+
+.listbook{
+    color: white;
+    font-weight: 900;
+    background-color: rgb(27, 11, 27);
+    height: auto;
+    width: 100%;
+}
